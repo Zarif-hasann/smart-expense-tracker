@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+
+# IntelliJ project files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated exports
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
